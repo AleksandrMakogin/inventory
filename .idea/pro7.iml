@@ -105,6 +105,9 @@
       <excludeFolder url="file://$MODULE_DIR$/inventory/vendor/ramsey/uuid" />
       <excludeFolder url="file://$MODULE_DIR$/inventory/vendor/ramsey/collection" />
       <excludeFolder url="file://$MODULE_DIR$/inventory/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/inventory/vendor/namshi/jose" />
+      <excludeFolder url="file://$MODULE_DIR$/inventory/vendor/tymon/jwt-auth" />
+      <excludeFolder url="file://$MODULE_DIR$/inventory/vendor/lcobucci/jwt" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

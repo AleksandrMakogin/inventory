@@ -101,6 +101,9 @@
       <path value="$PROJECT_DIR$/inventory/vendor/ramsey/uuid" />
       <path value="$PROJECT_DIR$/inventory/vendor/ramsey/collection" />
       <path value="$PROJECT_DIR$/inventory/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/inventory/vendor/namshi/jose" />
+      <path value="$PROJECT_DIR$/inventory/vendor/tymon/jwt-auth" />
+      <path value="$PROJECT_DIR$/inventory/vendor/lcobucci/jwt" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
